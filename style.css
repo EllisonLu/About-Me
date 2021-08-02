@@ -1,0 +1,33 @@
+h1{
+  text-align: center
+}
+h2{
+  margin: 15px
+}
+p{
+  margin: 15px;
+  text-align: left;
+  font-size: 17px
+
+}
+body{
+  background-image: url(https://media.timeout.com/images/102920649/image.jpg);  
+}
+ul{
+  text-align: center;
+  padding: 0px 10px 0px 10px
+}
+li{
+  display: inline;
+  padding: 0px 10px 0px 10px;
+  text-align: center;
+}
+img{
+ margin: 15px;
+ border: 5px solid rgb(167, 47, 47);
+}
+.transparent-background{
+  height:100%;
+  width:100%;
+  background-color:rgba(192, 182, 182, 0.788);
+}
